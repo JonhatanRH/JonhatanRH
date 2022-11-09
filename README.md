@@ -1,16 +1,16 @@
-### Hi there 👋
-
+# Hi 👋 I'm Jonhatan 
+ 
 <!--
-**JonhatanRH/JonhatanRH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##I am an innovative software deveper, I am passionate about playing and watching soccer matches, listening to music and I really enjoy learning new things.
+✨JonhatanRH** ✨  
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently developing a concentration training focused on cybersecurity
+
+- 🌱 I’m currently learning Front-end framework React
+
+- 💬 Ask me about Python, C++, SQL, Angular
+
+- 📫 How to reach me jonharamirez23@gmail.com
 -->
