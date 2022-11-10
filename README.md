@@ -1,7 +1,7 @@
 # Hi 👋 I'm Jonhatan 
  
 
-##I am an innovative software deveper, I am passionate about playing and watching soccer matches, listening to music and I really enjoy learning new things.
+##I am an innovative software developer, I am passionate about playing and watching soccer matches, listening to music and I really enjoy learning new things.
 ✨JonhatanRH** ✨  
 
 Here are some ideas to get you started:
