@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Front-end framework React
 
-- 💬 Ask me about Python, C++, SQL, Angular, Competitive programming
+- 💬 Ask me about Python, Angular, Competitive programming
 
 - 📫 How to reach me jonharamirez23@gmail.com
 
